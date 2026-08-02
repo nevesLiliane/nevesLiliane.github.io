@@ -1,4 +1,4 @@
-# Portfólio Pessoal (Template Baseado no Astrofy)
+# Liliane Kunstmann
 
 Este é um arquivo Markdown estruturado a partir da imagem fornecida. Você pode editar as informações abaixo com os seus dados para criar a sua própria versão do site.
 
@@ -26,9 +26,9 @@ Este é um arquivo Markdown estruturado a partir da imagem fornecida. Você pode
 ## 👤 Perfil Principal
 
 # I'm Liliane
-### Researcher in Intelligent Systems
+### Researcher in Databases
 
-Welcome! I am a professor at the Federal Rural University of Rio de Janeiro and a researcher in **Intelligent Systems**, specializing in Artificial Intelligence, Data Mining, and Recommendation Systems.
+Welcome! I am a professor at the Federal Rural University of Rio de Janeiro and a researcher in **Databases**, specializing in Artificial Intelligence, Data Mining, and Recommendation Systems.
 
 ---
 
