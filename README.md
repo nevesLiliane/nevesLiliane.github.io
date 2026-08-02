@@ -1,23 +1,48 @@
+# Portfólio Pessoal (Template Baseado no Astrofy)
 
+Este é um arquivo Markdown estruturado a partir da imagem fornecida. Você pode editar as informações abaixo com os seus dados para criar a sua própria versão do site.
 
-<nav style="display: flex; justify-content: space-between; align-items: center; padding: 10px; border-bottom: 2px solid #ccc;">
-    <div>
-        <a href="https://portal.ufrrj.br/"> 
-            <img src="Logo_UFRRJ_3.png" alt="Logo UFRRJ" style="height: 50px; vertical-align: middle;">
-        </a>
-    </div>
-    <div style="font-family: Arial, sans-serif; font-weight: bold;">
-        <a href="index.md" style="margin: 0 10px; text-decoration: none; color: #333;">Home</a>
-        <!--<a href="sobre.md" style="margin: 0 10px; text-decoration: none; color: #333;">Sobre</a> -->
-        <a href="contato.md" style="margin: 0 10px; text-decoration: none; color: #333;">Contato</a>
-    </div>
-    <div>
-        <a href="https://sigaa.ufrrj.br/sigaa/public/curso/portal.jsf?lc=pt_BR&id=450616"> 
-            <img src="images.png" alt="Sistemas de Informação" style="height: 50px; vertical-align: middle;">
-        </a>
-    </div>
-</nav>
+---
 
-## Liliane Neves de Oliveira Kunstmann - Assistant Professor at UFRRJ 
+## 📌 Barra Lateral (Menu de Navegação)
 
-## TDB
+* **Foto de Perfil:** `[Sua Foto Aqui]`
+* **Menu:**
+  * [🏠 Home](#-perfil-principal)
+  * [📁 Projetos](#)
+  * [📚 Disciplinas](#)
+  * [🎓 Orientações](#)
+  * [📝 Projeto Final](#)
+  * [📄 CV](#)
+
+* **Redes Sociais & Links:**
+  * 💻 [GitHub](https://github.com/)
+  * 🐦 [Twitter/X](https://twitter.com/)
+  * 🔗 [LinkedIn](https://linkedin.com/)
+  * 📻 [RSS Feed](#)
+
+---
+
+## 👤 Perfil Principal
+
+# I'm Liliane
+### Researcher in Intelligent Systems
+
+Welcome! I am a professor at the Federal Rural University of Rio de Janeiro and a researcher in **Intelligent Systems**, specializing in Artificial Intelligence, Data Mining, and Recommendation Systems.
+
+---
+
+## 📰 Últimas Notícias
+
+### 🔹 Rural assina acordo de cooperação com o COB
+* **Descrição:** A UFRRJ assinou, na terça-feira (22/8), Acordo de Cooperação com o Comitê Olímpico do Brasil (COB) intitulado “Programa de Educação e Prevenção ao Doping no Esporte Olímpico Brasileiro”.
+
+### 🔹 Comitiva da WADA visita sede do COB e se reúne com Comissão de Atletas da entidade
+* **Descrição:** Iniciativa da Agência Mundial Antidoping visa fortalecer e debater sobre o tema no país.
+
+---
+
+## <footer> Rodapé
+
+© 2025 Filipe Braida  
+_Astrofy Template developed by Manuel Ernesto ⚡_
